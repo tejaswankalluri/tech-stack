@@ -21,6 +21,7 @@ This repo is just a collection of technology I know and heard.
 - Memcache - In memory
 - SQlite - SQL DB
 - Prometheus - Timeseries
+- clickhouse - Timeseries
 
 # Cloud Services
 - AWS
