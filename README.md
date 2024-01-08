@@ -23,6 +23,10 @@ This repo is just a collection of technology I know and heard.
 - Prometheus - Timeseries
 - Clickhouse - Timeseries
 - Cockroachdb - Distribute SQl
+- Couchdb - NoSQL db
+- Neo4j - graph db
+- Scylladb - Cassandra Alternative
+- Surrealdb
 
 # Database providers
 - PlanetScale - MySQL
