@@ -26,13 +26,14 @@ This repo is just a collection of technology I know and heard.
 - Couchdb - NoSQL db
 - Neo4j - graph db
 - Scylladb - Cassandra Alternative
-- Surrealdb
+- Surrealdb - multi model DB
 
 # Database providers
 - PlanetScale - MySQL
 - neon.tech - Postgresql
 - Turso - SQlite on edge
 - Upstash - Redis and Kafka
+- aiven - all types of DBs
 
 # Cloud Services
 - AWS
