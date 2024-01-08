@@ -35,6 +35,12 @@ This repo is just a collection of technology I know and heard.
 - fly.io
 - railway.app
 
+# Cloud Technology
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+
 # Services on go
 - Firebase
 - Supabase
