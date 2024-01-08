@@ -35,6 +35,12 @@ This repo is just a collection of technology I know and heard.
 - fly.io
 - railway.app
 
+# Services on go
+- Firebase
+- Supabase
+- Appwrite
+- pocketbase
+
 # APM, logging, Tracing
 - Grafana
 - ELK stack
