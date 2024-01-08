@@ -21,14 +21,21 @@ This repo is just a collection of technology I know and heard.
 - Memcache - In memory
 - SQlite - SQL DB
 - Prometheus - Timeseries
-- clickhouse - Timeseries
+- Clickhouse - Timeseries
+- Cockroachdb - Distribute SQl
+
+# Database providers
+- PlanetScale - MySQL
+- neon.tech - Postgresql
+- Turso - SQlite on edge
+- Upstash - Redis and Kafka
 
 # Cloud Services
 - AWS
 - GCP
 - Azure
 - Heroku
-- Netilify
+- Netlify
 - Vercel
 - Digitalocean
 - Linode
